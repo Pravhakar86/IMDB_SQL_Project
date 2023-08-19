@@ -286,4 +286,29 @@ limit 9
 -- The query displays directors by movie count, average rating, and total duration, ranked by movie count. The top director is 'Andrew Jones', followed by 'A.L. Vijay', 'Jesse V. Johnson', and others.
 
 Conclussion ---
-  The analysis of the query results provides a comprehensive overview of movie data trends. It highlights strong patterns, such as the prominence of 2017 in movie production, March as a key month for releases, and Drama's dominance in production. Directors like James Mangold and actors Mammootty and Mohanlal stand out with high-rated work. Production companies like Marvel Studios shine in popularity. Notably, 'Star Cinema' and 'Ave Fenix Pictures' excel in high-rated films, while 'Denise Gough,' 'Susan Brown,' and 'Amanda Lawrence' impress in drama. The findings offer insights into movie industry dynamics across various dimensions.
+-- AS THE PER MY ANALYSIS I CAME ACROSS A.L. VIJAY IS THE TOP DIRECTOR AS PER 
+-- PUBLIC RATING  IF THE BOLLY MOVIES WANTS HITS BY PUBLIC PULSE THEY SHOULD 
+-- AQUIRE KNOWLEDGE ON CONTENT ON  VIJAY MOVIES.Chiris Hemsworth, Robert Downey ,
+--  CHiris evans are the top three directors in top genres with movie count 12 
+--  
+-- #>>COMINING TO PRODUCTION HOUSES Star cinema and Ave Fenix Pictures 
+-- GAVE MORE HITS CAMPARE TO  THE OTHERS AS THEY ARE TOP PRODUCTION HOUSES 
+-- IN MULTILANGAL SO THAT THEY WILL INTERSSTED IN PRODUCING  MORE
+-- BOLLY MOVIES.
+
+-- #>>IF BOLLY MOVIES COME UP WITH ACTION ,DRAMA,
+--  COMEDY GENRE  IT WILL DEFINITELY ENTERTAIN AS THEY 
+--  ARE TOP GENRES PEOPLE ARE MORE INTERESTED IN THESE
+--  GENRES COMPARATIVELY BEFORE 
+
+--  #>> IN HINDI MOVIES TOP ACTRESSES WHO HITS OR
+--  ENTERTAIN PEOPLE BY THEIR PERFORMANCE ARE taapsee pannu , kriti sanon, divya dutta, Sradda Kapoor,
+--   Krithi karbanda. WITH ANY OF THOSE ACTRESSES WILL HIT SOON THE INDUSTRY.
+--   
+--   ##>>> IN INDIAN MOVIES VIJAY SEYHUPAYHI RANKED AS NUMBER ONE 
+--        AND ALSO MOHAN LAL AND MAMMOTTY ARE ALSO TOP ACTORS BASED ON THEIR
+--        MEDIAN RATINGS . WE CAN CONSIDER THESE ACTORS WILL BOX OFFICES IN BOLLY MOVIES
+--        
+-- #####>><<**FINALLY I CAME INTO MY CONCLUSION
+--        COBMINATION OF ABOVE ACTORS AND ACTRESESS AND DIRECTORS AND PRODUCTION HOUSES IN 
+--        TOP GENRES WILL ENTERTAIN MORE
